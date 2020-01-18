@@ -1,4 +1,4 @@
-FROM alpine:3.11.0
+FROM alpine:3.11.3
 LABEL maintainer="larsgohr@gmail.com"
 
 ENV CACHE_DIR=/var/spool/squid \
